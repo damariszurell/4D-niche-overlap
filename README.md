@@ -1,6 +1,6 @@
 This repo contains the codes extending the niche overla analyses in the ecospat package to 3D and 4D niches.
 
-Reference: Zurell D, Gallien L, Graham CH, Zimmermann NE (2018) Do long-distance migratory birds track their niche through seasons? Journal of Biogeography 45: 1459-1468.doi: 10.1111/jbi.13351
+Reference: Zurell D, Gallien L, Graham CH, Zimmermann NE (2018) Do long-distance migratory birds track their niche through seasons? Journal of Biogeography 45: 1459-1468. doi: 10.1111/jbi.13351
 
 ---
 
